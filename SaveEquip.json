@@ -1,0 +1,226 @@
+[
+        {
+    
+        "id": 0,
+    
+        "name": "Espada larga",
+
+        "create": "10-01-1880",
+    
+        "dimension_long": 2,
+    
+        "dimension_wide": 0.1,
+    
+        "weight": 5,
+    
+        "image": "https://i.pinimg.com/originals/75/32/56/7532565a79bf0516c62be994b737d55d.png",
+    
+        "icon": "<i class='fas fa-leaf'></i>",
+        
+        "description": "Espada util para todo tipo de combate, la espada mas basica",
+
+        "type": "Espada",
+    
+        "blade": "Filo: Afilado",
+    
+        "handle": "Empuñadura: Piel de zorro"
+    
+        },
+    
+        {
+    
+        "id": 1,
+
+        "name": "Arco corto",
+
+        "create": "01-12-1876",
+    
+        "dimension_long": 1.5,
+    
+        "dimension_wide": 0.6,
+    
+        "weight": 0.5,
+    
+        "image": "http://mightandfealty.com/bundles/bm2site/images/items/shortbow2.png",
+    
+        "icon": "<i class='fas fa-bullseye'></i>",
+        
+        "description": "Arco utilizado para el aprendizaje de aprendices de arqueros",
+
+        "type": "Arco",
+    
+        "wood": "Madera: Pino",
+    
+        "arrow": "Flecha: Flecha corta"
+    
+        },
+
+        {
+
+        "id": 2,
+    
+        "name": "Tomahawk",
+
+        "create": "17-10-1888",
+    
+        "dimension_long": 0.3,
+    
+        "dimension_wide": 0.1,
+    
+        "weight": 0.5,
+    
+        "image": "https://cdn.pixabay.com/photo/2013/07/12/19/21/tomahawk-154629_640.png",
+    
+        "icon": "<i class='fas fa-tree'></i>",
+        
+        "description": "Suele usarse a modo de hacha misil, para atravesar a los enemigos desde la distancia",
+
+        "type": "Hacha",
+    
+        "material": "Material: Hierro",
+    
+        "hands": "Manos: 1"
+    
+        },
+    
+        {
+    
+        "id": 3,
+
+        "name": "Casco de Caballero",
+
+        "create": "22-06-1885",
+    
+        "dimension_long": 0.4,
+    
+        "dimension_wide": 0.5,
+    
+        "weight": 2,
+    
+        "image": "http://assets.stickpng.com/thumbs/58d2a7fbdc164e9dd9e668fe.png",
+    
+        "icon": "<i class='fas fa-egg'></i>",
+        
+        "description": "Usualmente llevado por guerreros de alto prestigio",
+
+        "type": "Casco",
+    
+        "form": "Forma: Botijo",
+    
+        "protection": "Proteccion: 10"
+    
+        },
+
+        {
+    
+        "id": 4,
+    
+        "name": "Espada ancha",
+
+        "create": "02-02-1882",
+    
+        "dimension_long": 1,
+    
+        "dimension_wide": 0.5,
+    
+        "weight": 8,
+    
+        "image": "https://craftpedia.net/img/?b=conan&s=icon_exile_broadsword&w=256",
+    
+        "icon": "<i class='fas fa-leaf'></i>",
+        
+        "description": "Espada normalmente utilizada para matar animales grandes",
+
+        "type": "Espada",
+    
+        "blade": "Afilado: Muy afilado",
+    
+        "handle": " Empuñadura:Cuero de caballo"
+        
+        },
+    
+        {
+    
+        "id": 5,
+
+        "name": "Hacha Pesada",
+
+        "create": "11-11-1881",
+    
+        "dimension_long": 2.5,
+    
+        "dimension_wide": 1.5,
+    
+        "weight": 15,
+    
+        "image": "https://vikings.help/users/vikings/imgExtCatalog/big/m325.png",
+    
+        "icon": "<i class='fas fa-tree'></i>",
+        
+        "description": "Hacha especializada tanto para cortar arboles, derribar muros o incluso matar a tu suegra...",
+
+        "type": "Hacha",
+    
+        "material": "Material: Acero",
+    
+        "hands": "Manos: 2"
+    
+        },
+
+        {
+
+        "id": 6,
+    
+        "name": "Casco de cuero",
+
+        "create": "14-03-1887",
+    
+        "dimension_long": 0.3,
+    
+        "dimension_wide": 0.5,
+    
+        "weight": 0.1,
+    
+        "image": "http://www.terraequus.com/1299/casco-egide-epona-cuero-alcantara.jpg",
+    
+        "icon": "<i class='fas fa-egg'></i>",
+        
+        "description": "Muy popular en la zona del pastoreo, suelen llevarlo los pastores cuando empieza a llegar el frio",
+
+        "type": "Casco",
+    
+        "form": "Forma: Huevo",
+    
+        "protection": "Proteccion: 3"
+    
+        },
+    
+        {
+    
+        "id": 7,
+
+        "name": "Arch of the Falcon",
+
+        "create": "16-07-1884",
+    
+        "dimension_long": 2,
+    
+        "dimension_wide": 1,
+    
+        "weight": 1.5,
+    
+        "image": "https://wow.zamimg.com/modelviewer/tbc/webthumbs/item/204/40908.png",
+    
+        "icon": "<i class='fas fa-bullseye'></i>",
+        
+        "description": "Diseñado para arqueros profesionales, pocos privilegiados pueden usarlos sin fallar",
+
+        "type": "Arco",
+    
+        "wood": "Madera: Roble",
+    
+        "arrow": "Flecha: Flecha puntiaguda"
+    
+        }
+    
+    ]

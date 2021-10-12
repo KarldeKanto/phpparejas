@@ -1,0 +1,19 @@
+
+img{width: 100px; height: 100px;}
+
+li{
+
+    list-style-type: none;
+    display: inline;
+    text-align: center;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.header{
+    background-color: rgb(87, 151, 98);
+    
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
